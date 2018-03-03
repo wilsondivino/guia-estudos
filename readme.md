@@ -15,7 +15,7 @@
 3. [MongoDB](https://docs.mongodb.com/)
 4. [MySQL](https://dev.mysql.com/doc/refman/5.7/en/)
 
-## Outros
+## Arquitetura
 
 1. [Design Patterns](https://addyosmani.com/resources/essentialjsdesignpatterns/book/)
 2. [Twelve Factor App](https://12factor.net/pt_br/)
